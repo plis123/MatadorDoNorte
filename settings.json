@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "server32141.aternos.me:39169",
+    "ip": "server32141.aternos.me",
     "port": 39169,
     "version": "",
     "try-creative": false
